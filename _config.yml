@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://fendicase.github.io
+title: Fendi Case
+paginate: 10
